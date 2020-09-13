@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **DD102K/DD102K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### I have just joined Github. Just exploring it better. 
+>I am interested in **ML** and **Data Science**. 
+>Have successfully made my first project : ***Face Recognition System*** using a Pre-Trained Model on Jupyter Notebook with the help of python libraries!
+Link to LinkedIn profile :
+[Diya Dohare](https://www.linkedin.com/in/diya-dohare-b0ab41174/)
+Looking forward to make lots of innovative contributions to this platform and learn various new things! Thank you! :smile:
